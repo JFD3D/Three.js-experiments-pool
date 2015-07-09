@@ -1,4 +1,4 @@
 # Three.js-experiments-pool
 Three.js experiments and demo sources.
 
-Updated for use with Three.js Rev71
+Updated and created two new GodRay examples for use with Three.js Rev71
